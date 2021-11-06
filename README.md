@@ -15,7 +15,13 @@
 - [Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&ab_channel=JonGjengset): Intro series
 
 
+## Ethereum
+
 ## Solana
+
+### Reading
+- [ok so what the fuck is the deal with solana anyway](https://2501babe.github.io/posts/solana101.html): hana solana docs 101
+- [angkor wat - a brief tour of programming in anchor](https://2501babe.github.io/posts/anchor101.html): hana explains anchor 
 
 
 ## Polkadot
