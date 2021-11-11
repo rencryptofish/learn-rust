@@ -22,7 +22,7 @@
 ### Reading
 - [ok so what the fuck is the deal with solana anyway](https://2501babe.github.io/posts/solana101.html): hana solana docs 101
 - [angkor wat - a brief tour of programming in anchor](https://2501babe.github.io/posts/anchor101.html): hana explains anchor 
-
+- [Solana security workshop](https://workshop.neodyme.io/index.html): solana smart contract problems and solutions
 
 ## Polkadot
 
