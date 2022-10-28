@@ -9,23 +9,9 @@
 - [Sayonara, C++, and hello to Rust!](https://www.thecodedmessage.com/posts/hello-rust/): Good intro blog post about rust, decent comments as well 
 - [Abstracting over mutability in Rust](https://lab.whitequark.org/notes/2016-12-13/abstracting-over-mutability-in-rust/): For when you need to
 - [why async fn in traits are hard](http://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/): traits with async
+- [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://nostarch.com/rust-rustaceans)
 
 ## Videos
 
 - [Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&ab_channel=JonGjengset): Intro series
-
-
-## Ethereum
-
-## Solana
-
-### Reading
-- [ok so what the fuck is the deal with solana anyway](https://2501babe.github.io/posts/solana101.html): hana solana docs 101
-- [angkor wat - a brief tour of programming in anchor](https://2501babe.github.io/posts/anchor101.html): hana explains anchor 
-- [Solana security workshop](https://workshop.neodyme.io/index.html): solana smart contract problems and solutions
-
-## Polkadot
-
-
-## Cosmos
 
