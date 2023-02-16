@@ -10,7 +10,7 @@
 - [Abstracting over mutability in Rust](https://lab.whitequark.org/notes/2016-12-13/abstracting-over-mutability-in-rust/): For when you need to
 - [why async fn in traits are hard](http://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/): traits with async
 - [Rust for Rustaceans: Idiomatic Programming for Experienced Developers](https://nostarch.com/rust-rustaceans)
-
+- [Why is building a UI in Rust so hard?](https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard): modeling ui's as trees in rust
 ## Videos
 
 - [Crust of Rust](https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&ab_channel=JonGjengset): Intro series
